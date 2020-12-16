@@ -21,4 +21,4 @@ If you find the project helpful, please consider citing them:
 ```
 
 # Differents between offical code and us
-[Link]()
+[Link](Different/Different.md)
