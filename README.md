@@ -5,8 +5,8 @@ This is a **unofficial** implementation of Minimal-Hand based on PyTorch
 
 This project provides the core components for hand motion capture:
 
-- [estimating joint locations from a monocular RGB image (DetNet)]
-- [estimating joint rotations from locations (IKNet)]
+- estimating joint locations from a monocular RGB image (DetNet)
+- estimating joint rotations from locations (IKNet)
 
 ## DO
 - [x] Inference code like [offical one](https://github.com/CalciferZh/minimal-hand)
