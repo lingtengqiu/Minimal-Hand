@@ -1,8 +1,9 @@
 # Minimal-Hand
 Minimal-Hand based Pytorch (CVPR2020)
-This is a **unofficial** implementation of Minimal-Hand based on PyTorch
+This is a **unofficial** implementation of Minimal-Hand based on PyTorch  
 
-
+- [x] Inference code like offical one
+- [ ] Training code
 
 # Citation
 This is the **unofficial** implementation of the paper "Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data" (CVPR 2020).
@@ -18,3 +19,6 @@ If you find the project helpful, please consider citing them:
   year={2020}
 }
 ```
+
+# Differents between offical code and us
+[Link]()
