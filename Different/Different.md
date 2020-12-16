@@ -1,6 +1,7 @@
 ## The Different between PyTorch and Tensorflow in DetNet
 
 ### Feature Map
+the second column is sum(abs(diff)) of featuremap(average value shown in **brackets**) while the third one is focus on max different 
 
 |   Conv7*7   |         36.7554         | 0.0300     |
 | :---------: | :---------------------: | ---------- |
