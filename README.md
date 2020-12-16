@@ -2,7 +2,13 @@
 Minimal-Hand based Pytorch (CVPR2020)
 This is a **unofficial** implementation of Minimal-Hand based on PyTorch  
 
-- [x] Inference code like offical one
+
+This project provides the core components for hand motion capture:
+
+    estimating joint locations from a monocular RGB image (DetNet)
+    estimating joint rotations from locations (IKNet)
+
+- [x] Inference code like [offical one](https://github.com/CalciferZh/minimal-hand)
 - [ ] Training code
 
 # Citation
