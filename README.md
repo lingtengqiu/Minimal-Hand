@@ -12,6 +12,15 @@ This project provides the core components for hand motion capture:
 - [x] Inference code like [offical one](https://github.com/CalciferZh/minimal-hand)
 - [ ] Training code
 
+
+# Quick Start
+## Download
+First, you need download detnet and iknet transfered from tensorflow version. Note that there is a bit of precision error when I transfer tensorflow module to pytorch:  
+- [Detnet](https://drive.google.com/file/d/1xcnBGLoUO6WT2k9rVnIbRSeJ9YC5RewO/view?usp=sharing)
+- [Iknet](https://drive.google.com/file/d/1CRHLO57cnLizuAhGt9QKjlEe-yW5ZAzc/view?usp=sharing)
+
+
+
 # Citation
 This is the **unofficial** implementation of the paper "Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data" (CVPR 2020).
 
