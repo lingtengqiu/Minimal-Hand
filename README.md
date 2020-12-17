@@ -1,6 +1,5 @@
 # Minimal-Hand
-Minimal-Hand based Pytorch (CVPR2020)
-This is a **unofficial** implementation of Minimal-Hand based on PyTorch  
+This is a **unofficial** implementation of Minimal-Hand based on PyTorch(CVPR2020)
 
 
 This project provides the core components for hand motion capture:
