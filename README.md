@@ -21,7 +21,13 @@ First, you need download detnet and iknet transfered from tensorflow version. No
 And then, you need mkdir weights into which you put the weights downloaded from the above websites.
 
 ## Inference
-
+```
+  python app.py
+```
+Note that you could choose your video parameters by modify the following code in app.py
+```
+  live_application(video_stream("../test_video/img_3/"))---> live_application(video_stream("../your_image_files_path"))
+```
 
 # Citation
 This is the **unofficial** implementation of the paper "Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data" (CVPR 2020).
