@@ -29,6 +29,12 @@ Note that you could choose your video parameters by modify the following code in
   live_application(video_stream("../test_video/img_3/"))---> live_application(video_stream("../your_image_files_path"))
 ```
 
+## Visualization
+![](render_results/000033.png)
+![](render_results/000043.png)
+![](render_results/000083.png)
+
+
 # Citation
 This is the **unofficial** implementation of the paper "Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data" (CVPR 2020).
 
