@@ -30,9 +30,9 @@ Note that you could choose your video parameters by modify the following code in
 ```
 
 ## Visualization
-![](render_results/000033.png)
-![](render_results/000043.png)
-![](render_results/000083.png)
+![img_1](render_results/000033.png)
+![img_2](render_results/000043.png)
+![img_3](render_results/000083.png)
 
 
 # Citation
