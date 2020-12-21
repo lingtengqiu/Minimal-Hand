@@ -18,6 +18,9 @@ First, you need download detnet and iknet transfered from tensorflow version. No
 - [Detnet](https://drive.google.com/file/d/1xcnBGLoUO6WT2k9rVnIbRSeJ9YC5RewO/view?usp=sharing)
 - [Iknet](https://drive.google.com/file/d/1CRHLO57cnLizuAhGt9QKjlEe-yW5ZAzc/view?usp=sharing)
 
+And then, you need mkdir weights into which you put the weights downloaded from the above websites.
+
+## Inference
 
 
 # Citation
