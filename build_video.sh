@@ -1,0 +1,1 @@
+ffmpeg -f image2 -r 25 -i ${1}/%06d.png -b 5000k -c:v mpeg4 ${2}
